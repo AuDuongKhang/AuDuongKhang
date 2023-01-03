@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Sports
 - 🌱 I’m currently learning Information Technology at Ho Chi Minh University of Science
 - 💞️ I’m looking to collaborate on ... (contact for more information)
-- 📫 How to reach me? Gmail or Outlook \m
+- 📫 How to reach me? Gmail or Outlook \n
 Gmail: duongkhang2100@gmail.com
 Outlook: 21127621@student.hcmus.edu.vn
 
