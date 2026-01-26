@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @AuDuongKhang
-- 👀 I’m interested in Coding and Sports
-- 🌱 I’m currently learning Information Technology at Ho Chi Minh University of Science
+- 👋 Hi, I’m @AuDuongKhang.
+- 👀 I’m interested in Coding and Research about AI topic, specially Machine Learning, NLP, LLMs and Knowledge Graph.
+- 🌱 I had B.Sc of Information Technology and I’m currently learning M.Sc of Artificial Intelligence at University of Science, Vietnam National University Ho Chi Minh.
 - 📫 How to reach me? Gmail or Outlook
--  Gmail: adkhang21@clc.fitus.edu.vn
--  Outlook: 21127621@student.hcmus.edu.vn
+-  Gmail: duongkhang2100@gmail.com
+-  Outlook: 25c1504542@student.hcmus.edu.vn
 
 <!---
 AuDuongKhang/AuDuongKhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
