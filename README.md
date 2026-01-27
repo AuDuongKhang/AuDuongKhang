@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **duongkhang2100@gmail.com** or **25c1504542@student.hcmus.edu.vn**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1SUoHoB192AjmvbUBPsPPfYrdNR76SKHK/view?usp=sharing](https://drive.google.com/file/d/1SUoHoB192AjmvbUBPsPPfYrdNR76SKHK/view?usp=sharing)**
+- 📄 Know about my experiences **[My Resume](https://byvn.net/R4oJ)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
